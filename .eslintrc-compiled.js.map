@@ -1,0 +1,1 @@
+{"version":3,"sources":[".eslintrc.js"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,GAAG;AACb,aAAS,EAAE,QAAQ;CACtB,CAAC","file":".eslintrc-compiled.js","sourcesContent":["module.exports = {\n    \"extends\": \"google\"\n};"]}
